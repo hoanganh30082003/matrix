@@ -10,7 +10,7 @@ package calculationmatrix;
  * @author tudo766
  */
 public class Main {
-
+// this is a main//
     public static Manager man = new Manager();
 
     public static void main(String[] args) {
